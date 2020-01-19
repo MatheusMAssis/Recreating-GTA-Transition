@@ -1113,6 +1113,8 @@ MonoBehaviour:
   cameraALFONSO: {fileID: 478521253}
   cameraBARNEY: {fileID: 858264136}
   transitionCamera: {fileID: 2092926108}
+  actualPlayerGO: {fileID: 0}
+  actualPlayerCAM: {fileID: 0}
   actualPlayerCM: {fileID: 0}
 --- !u!4 &2062365376
 Transform:
@@ -1146,7 +1148,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2092926106
 Transform:
   m_ObjectHideFlags: 0
